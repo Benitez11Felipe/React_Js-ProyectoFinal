@@ -1,0 +1,10 @@
+.navbar {
+    background-color: rgb(39, 76, 119);
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.navbar :hover {
+    background-color: rgb(29, 66, 109)
+}
