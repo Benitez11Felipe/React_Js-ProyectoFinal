@@ -1,0 +1,29 @@
+.container {
+    background-color: white;
+    color: black;
+    margin: 1vw;
+    border-radius: 10px;
+}
+
+.precio {
+    text-align: right;
+    padding-right: 2vw;
+    font-size: 4vw;
+}
+
+img {
+    height: 40vh;
+}
+
+p {
+    margin: 2vw;
+}
+
+h1 {
+    margin: 0vw;
+    padding-top: 1vh;
+}
+
+.titulo {
+    font-size: 4vw;
+}
