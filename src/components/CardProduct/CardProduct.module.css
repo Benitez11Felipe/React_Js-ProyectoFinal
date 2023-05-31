@@ -1,0 +1,31 @@
+.ProductosInicio {
+    margin: auto;
+    text-align: center;
+    width: 40vw;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    padding: 1vw;
+    margin: 5vh auto;
+}
+
+.ProductosInicio img{
+    margin: auto;
+    margin-top: 2vh;
+    max-width: 35vw;
+}
+
+.ProductosInicio p {
+    padding: 0 1.5vw 0 1.5vw;
+}
+
+.precio {
+    text-align: right;
+    padding-right: 2vw;
+    color: rgb(39, 76, 119);
+    font-size: 3vw;
+}
+
+h2 {
+    margin: 0;
+}
